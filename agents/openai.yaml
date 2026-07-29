@@ -1,0 +1,8 @@
+interface:
+  display_name: "Generate Case Visual"
+  short_description: "Turn verified use cases into brand-aligned visuals"
+  brand_color: "#3370FF"
+  default_prompt: "Use $generate-case-visual to turn a verified customer use case into a brand-aligned one-page visual."
+
+policy:
+  allow_implicit_invocation: true
